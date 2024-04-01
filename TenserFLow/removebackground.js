@@ -68,4 +68,4 @@ async function removebackground() {
   
 }
 
-loadImage('portrait.jpg');
+loadImage('images.jpg');
