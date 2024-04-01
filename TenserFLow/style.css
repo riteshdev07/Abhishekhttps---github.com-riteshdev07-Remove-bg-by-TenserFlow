@@ -1,0 +1,14 @@
+/* styles */
+/* called by your view template */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+canvas {
+  filter: drop-shadow(0 0 5px rgba(0, 0, 0, 0));
+}
